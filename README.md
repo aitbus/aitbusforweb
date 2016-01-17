@@ -1,0 +1,2 @@
+# aitbusforweb
+aitbusforweb androidなどアプリサポートしないものよう。
